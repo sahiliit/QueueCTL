@@ -17,12 +17,10 @@ A lightweight, production‑minded CLI tool for managing background job executio
 
 ---
 
-## 📍 Prerequisites
+## 📍 used language
 
 * Python 3.8 or higher
 * SQLite included with Python ✅
-* Windows / macOS / Linux supported
-
 ---
 
 ## 🛠️ Setup Instructions
