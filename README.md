@@ -190,4 +190,4 @@ Manual validation checklist:
 
 ---
 
-Maintained by: **Sahil’s Queue System** 🚀
+Created by: **Sahil Kumar** 🚀
